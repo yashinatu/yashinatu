@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashi</h1>
 <h3 align="center">ECE Sophomore from IIT Guwahati, passionate about development!</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently intern at **Uber**
 
 - 📫 How to reach me **yashinatu2007@gmail.com**
 
