@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashi</h1>
 <h3 align="center">ECE Sophomore from IIT Guwahati, passionate about development!</h3>
 
-- 🌱 I’m currently intern at **Uber**
+- 🌱 I’m currently intern at **Uber**, scaffolded a service in GoLang to interact with various objects of TM1.
 
 - 📫 How to reach me **yashinatu2007@gmail.com**
 
