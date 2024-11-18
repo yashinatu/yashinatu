@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yashi</h1>
-<h3 align="center">ECE Sophomore from IIT Guwahati, passionate about development!</h3>
+<h3 align="center">ECE Graduate from IIT Guwahati, passionate about development!</h3>
 
 - 🌱 Software Engineer at Uber
 
 - 📫 How to reach me **yashinatu2007@gmail.com**
-
-- ⚡ Fun fact **I don't understand circuits!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
