@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashi</h1>
 <h3 align="center">ECE Sophomore from IIT Guwahati, passionate about development!</h3>
 
-- 🌱 Upcoming SWE Intern at Uber, Ex-UberStar Intern'22.
+- 🌱 Software Engineer at Uber
 
 - 📫 How to reach me **yashinatu2007@gmail.com**
 
